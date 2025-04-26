@@ -2,7 +2,7 @@
 
 LifeOS, günlük yaşamınızı optimize etmek, alışkanlıklarınızı takip etmek ve kişisel gelişiminizi hızlandırmak için tasarlanmış kapsamlı bir kişisel yaşam yönetim sistemidir. Türkçe arayüzü ile kullanıcı dostu bir deneyim sunar.
 
-![LifeOS Ana Ekran](https://via.placeholder.com/800x400?text=LifeOS+Ana+Ekran)
+![LifeOS Ana Ekran](https://github.com/toprakhenaz/life-os-ai/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-26%20110015.png)
 
 ## İçindekiler
 
